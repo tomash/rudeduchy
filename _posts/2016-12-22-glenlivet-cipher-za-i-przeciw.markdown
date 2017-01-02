@@ -2,7 +2,7 @@
 layout: post
 title:  "Glenlivet Cipher: za i przeciw"
 date:   2016-12-22
-categories: general
+categories: 
 location: 
 ---
 
@@ -29,5 +29,5 @@ Cała ta tajemniczość i wyjątkowość została wyceniona na, w zależności o
 * za: Glenlivet rzadko daje ciała
 * przeciw: chociaż jak już ma chwile słabości, to są to właśnie ich NAS-owe produkty
 
-
+Ostatecznie kupiłem. Ale czy było warto? To będę wiedział po spróbowaniu.
 

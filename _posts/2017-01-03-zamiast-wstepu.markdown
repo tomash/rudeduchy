@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Spóźniony wstęp"
+title:  "Zamiast wstępu"
 date:   2017-01-03
-categories: ogólne
+categories: 
 location: 
 ---
 

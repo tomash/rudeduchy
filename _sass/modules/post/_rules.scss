@@ -69,6 +69,12 @@
             line-height: $post-line-height;
             margin-bottom: 25px;
         }
+
+        ul {
+            padding-left: 20px;
+            list-style-type: disc;
+            line-height: $post-line-height;
+        }
     }
 
     .post-body-location,
