@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Old Smuggler"
+title:  "Old Smuggler: stary, przyjazny przemytnik"
 date:   2016-11-06
 categories: 
 location: 
@@ -10,8 +10,6 @@ location:
     <img src="/assets/posts/old-smuggler.jpg" alt="Old Smuggler i Glen Grant Major's Reserve" />
     <p class="post-image-caption">Old Smuggler i pewien już tu opisywany single malt</p>
 </div>
-
-Stary, przyjazny przemytnik.
 
 Jakiś czas temu [wrzuciłem zdjęcie posiadanych przeze mnie szkockich whisky mieszanych](/2016/09/24/szkockie-blendy/) z deklaracją chęci opisania tych niesłusznie pomijanych czy traktowanych z pobłażaniem whisky.
 
