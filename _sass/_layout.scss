@@ -43,11 +43,11 @@
     text-align: center;
 
     &::after {
-        @include retina-background-image($img-dude);
+        @include retina-background-image($img-face);
         display: block;
         content: "";
-        width: 65px;
-        height: 158px;
+        width: 160px;
+        height: 160px;
         margin: 20px auto 50px;
     }
 

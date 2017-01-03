@@ -9,12 +9,10 @@
 title: Rude Duchy
 author: Tomash
 author_link: https://twitter.com/_tomash
-author_description: A few words to describe you & your face
+author_description: Losowy nerd z internetu
 email: tomekrs@o2.pl
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Kolejny blog o whisky i tematach pokrewnych, prowadzony przez kompletnego amatora.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://rudeduchy.pl" # the base hostname & protocol for your site
 
