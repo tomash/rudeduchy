@@ -6,7 +6,7 @@ categories:
 location: 
 ---
 
-Glenlivet Cipher to nowy single malt drugiej największej destylarni słodowej. Oficjalny opis od polskiego dystrybutora to:
+Glenlivet Cipher to nowy single malt drugiej największej destylarni whisky słodowej w Szkocji. Oficjalny opis od polskiego dystrybutora to:
 
 <blockquote>The Glenlivet Cipher to limitowana edycja w czarnej eleganckiej butelce, na której nie znajdziesz opisu rodzaju beczek użytych w procesie dojrzewania, wieku whisky ani nut zapachowo-smakowych. Jego bukiet został ukształtowany przez wykorzystanie unikalnych beczek, których nigdy wcześniej nie stosowano w procesie dojrzewania whisky z portfolio The Glenlivet. To trunek, który emanuje tajemniczością i wyjątkowością.</blockquote>
 

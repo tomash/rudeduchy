@@ -75,6 +75,13 @@
             list-style-type: disc;
             line-height: $post-line-height;
         }
+
+        blockquote {
+            border-left: 2px solid #ecefe9;
+            padding: .5em 1.5em;
+            margin: 0;
+            background-color: #f4f6f2;
+        }
     }
 
     .post-body-location,
