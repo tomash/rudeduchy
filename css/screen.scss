@@ -4,8 +4,11 @@
 @charset "utf-8";
 
 // Typography
-$base-font-family: "adobe-caslon-pro", "Adobe Caslon Pro", serif;
-$caption-font-family: "ltc-bodoni-175", "Libre Baskerville", serif;
+
+// base-font-family: "adobe-caslon-pro", "Adobe Caslon Pro", serif;
+// caption-font-family: "ltc-bodoni-175", "Libre Baskerville", serif;
+$base-font-family: "Times New Roman", serif;
+$caption-font-family: "Times New Roman", serif;
 $banner-font-family: "Sanchez", serif;
 $title-font-family: "Libre Baskerville", serif;
 $base-font-size:   18px;
@@ -29,16 +32,16 @@ $desktop-breakpoint: $layout-width / 0.9;
 $image-splitting-breakpoint: 510px;
 
 // Banner
-$banner-width: 800px;
-$banner-height: 200px;
+$banner-width: 600px;
+$banner-height: 280px;
 $banner-margin: 50px;
-$banner-border-width: 3px;
+$banner-border-width: 0px;
 $banner-border-offset: 2px;
 
 // Images
 // Note that extensions are omitted for use in retina-background-image mixin
 $img-separator: '{{ site.baseurl }}/img/separator';
-$img-banner: '{{ site.baseurl }}/img/banner';
+$img-banner: '{{ site.baseurl }}/img/shelf';
 $img-dude: '{{ site.baseurl }}/img/dude';
 $img-location: '{{ site.baseurl }}/img/icon-location';
 
