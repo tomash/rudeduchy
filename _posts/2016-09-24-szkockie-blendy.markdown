@@ -4,6 +4,8 @@ title:  "Szkockie blendy"
 date:   2016-09-24
 categories:
 location: 
+tags: blended scotch
+image: /assets/posts/scotch-blended-whisky.jpg
 ---
 
 <div class="post-image">

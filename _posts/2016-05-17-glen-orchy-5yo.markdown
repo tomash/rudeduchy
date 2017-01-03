@@ -4,6 +4,8 @@ title:  "Glen Orchy 5 years old blended malt"
 date:   2016-05-17
 categories: 
 location: 
+tags: blendedmalt malt scotch
+image: /assets/posts/glen-orchy-5yo.jpg
 ---
 
 <div class="post-image">

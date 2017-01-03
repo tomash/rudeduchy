@@ -4,6 +4,7 @@ title:  "Zamiast wstępu"
 date:   2017-01-03
 categories: 
 location: 
+tags: ogólne
 ---
 
 Pomysł założenia bloga w 2016 roku jest absurdalny -- tak właśnie reagowałem na komentarze sugerujące umieszczenie moich fejsbukowych wpisów o różnych whisky na jakimś blogu. Po pierwsze, w światowym internecie istnieją już setki blogów o whisky, a i w polskim znalazłoby się kilkanaście. Po drugie, Facebook pożera źródła treści i taki jest wektor ich migracji, chociaż daje się zauważyć pewne zmęczenie fejsem i powolny odwrót do samodzielnie utrzymywanych stron. Po trzecie i najbardziej blokujące, jestem w temacie whisky kompletnym neofitą i nowicjuszem, poważnie smakować whisky zacząłem pod koniec 2015 roku.

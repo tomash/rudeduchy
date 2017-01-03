@@ -4,6 +4,8 @@ title:  "Old Smuggler: stary, przyjazny przemytnik"
 date:   2016-11-06
 categories: 
 location: 
+tags: blended scotch
+image: /assets/posts/old-smuggler.jpg
 ---
 
 <div class="post-image">

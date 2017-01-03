@@ -4,6 +4,7 @@ title:  "Promocja whisky w Tesco"
 date:   2016-12-11
 categories: 
 location: 
+tags: promocje
 ---
 
 Tesco zrobiło grudniową promocję na alkohole wszelkie, a broszurę o tym zatytułowali "Wyjątkowy smak Świąt". Szanuję to poczucie humoru. Z tego powodu, oraz dla propsowania dobrych promocji, subiektywny przegląd reklamowanych w tej broszurce whisky. W kolejności w jakiej się pojawiają.

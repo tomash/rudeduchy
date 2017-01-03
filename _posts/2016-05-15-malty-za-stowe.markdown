@@ -4,6 +4,8 @@ title:  "Malty za stówę (i mniej)"
 date:   2016-05-15
 categories: 
 location: 
+tags: malt scotch singlemalt blendedmalt
+image: /assets/posts/malty-za-100.jpg
 ---
 
 <div class="post-image">

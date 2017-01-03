@@ -4,6 +4,8 @@ title:  "Grangestone single malt"
 date:   2016-05-26
 categories: 
 location: 
+tags: singlemalt malt scotch malt100
+image: /assets/posts/grangestone-nas-single-malt.jpg
 ---
 
 <div class="post-image">

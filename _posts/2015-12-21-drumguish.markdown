@@ -4,6 +4,8 @@ title:  "Drumguish: zapowiedź lepszych czasów"
 date:   2015-12-21
 categories: 
 location: 
+tags: singlemalt malt scotch
+image: /assets/posts/drumguish.jpg
 ---
 
 <div class="post-image">

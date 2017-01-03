@@ -4,6 +4,8 @@ title:  "Glenlivet 12 years old single malt"
 date:   2016-01-22
 categories: 
 location: 
+tags: singlemalt malt scotch
+image: /assets/posts/glenlivet-12yo.jpg
 ---
 
 <div class="post-image">
@@ -23,8 +25,8 @@ Zagryzamy łagodnym i przyjaznym, a jednak niepozbawionym głębi serem Szafir z
 
 Tym razem udało się zgodnie z konwencją uchwycić kota na zdjęciu, wyłącznie dlatego że akurat spał i demonstrował ogólne wywalenie na otaczający go świat. Idealny pomysł na piątkowy, zimowy wieczór!
 
-[1] http://www.ft.com/cms/s/2/55f1f4d2-5986-11e2-88a1-00144feab49a.html
-[2] http://www.theglenlivet.com/blog/by-royal-command
-[3] http://www.whiskymag.com/forum/viewtopic.php?t=2738
+* [1] [Financial Times: Speyside Invaders](http://www.ft.com/cms/s/2/55f1f4d2-5986-11e2-88a1-00144feab49a.html)
+* [2] [By Royal Command](http://www.theglenlivet.com/blog/by-royal-command)
+* [3] [Single Malts in the movies](http://www.whiskymag.com/forum/viewtopic.php?t=2738)
 
 [Oryginalny wpis na Facebooku](https://www.facebook.com/photo.php?fbid=10209029286428194&set=a.10208737101083743.1073741844.1198502305&type=3&theater)

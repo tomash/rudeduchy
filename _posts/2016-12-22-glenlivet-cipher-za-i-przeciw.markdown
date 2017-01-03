@@ -4,6 +4,8 @@ title:  "Glenlivet Cipher: za i przeciw"
 date:   2016-12-22
 categories: 
 location: 
+tags: singlemalt malt scotch
+image: /assets/posts/glenlivet-cipher-press.png
 ---
 
 Glenlivet Cipher to nowy single malt drugiej największej destylarni whisky słodowej w Szkocji. Oficjalny opis od polskiego dystrybutora to:

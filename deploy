@@ -1,4 +1,4 @@
 echo 'Building...'
 jekyll build
 echo 'Pushing...'
-rsync -avz --delete _site/ tomash@tilath:~/rudeduchy.pl/
+rsync -avz --delete _site/ tomash@rudeduchy.pl:~/rudeduchy.pl/

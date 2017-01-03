@@ -4,6 +4,8 @@ title:  "Clynelish 14-letni: zapowiedź"
 date:   2016-12-10
 categories: 
 location: 
+tags: singlemalt malt scotch
+image: /assets/posts/clynelish1.jpg
 ---
 
 <div class="post-image">

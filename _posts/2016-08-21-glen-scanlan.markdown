@@ -4,6 +4,8 @@ title:  "Glen Scanlan single malt & blended malt"
 date:   2016-08-21
 categories: 
 location: 
+tags: singlemalt blendedmalt malt scotch malt100
+image: /assets/posts/glen-scanlan-malts.jpg
 ---
 
 <div class="post-image">

@@ -4,6 +4,8 @@ title:  "Glen Grant Major's Reserve single malt"
 date:   2016-08-09
 categories: 
 location: 
+tags: singlemalt malt scotch malt100
+image: /assets/posts/glen-grant-majors-reserve.jpg
 ---
 
 <div class="post-image">

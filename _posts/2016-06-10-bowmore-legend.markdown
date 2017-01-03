@@ -4,6 +4,8 @@ title:  "Bowmore Legend Islay single malt"
 date:   2016-06-10
 categories: 
 location: 
+tags: singlemalt malt scotch malt100
+image: /assets/posts/bowmore-legend.jpg
 ---
 
 <div class="post-image">
@@ -22,8 +24,8 @@ Starczy tej chemii, czas otworzyć Bowmore Legend. Pierwsze co trafia w nos to w
 
 Czy jest to dobry single malt? Nie wiem, nie jestem fanem dymnych whisky. Na pewno Bowmore Legend jest jedną z bardziej przyjaznych whisky z Islay jakie piłem. Na pewno jest świetna do poznania charakteru nieprzesadnie torfowych szkockich i zdecydowania czy chcemy iść dalej w tym kierunku, czy może lepiej się wycofać. W swojej cenie zdecydowanie warta spróbowania!
 
-[1] http://whiskyscience.blogspot.com/2011/02/peat.html
-[2] http://onlinelibrary.wiley.com/doi/10.1002/j.2050-0416.1968.tb03126.x/pdf
-[3] http://www.die-neue-kur.de/en/spas-and-health-resorts-in-germany/medicinal-mud-spa-resorts.html
+* [1] http://whiskyscience.blogspot.com/2011/02/peat.html
+* [2] http://onlinelibrary.wiley.com/doi/10.1002/j.2050-0416.1968.tb03126.x/pdf
+* [3] http://www.die-neue-kur.de/en/spas-and-health-resorts-in-germany/medicinal-mud-spa-resorts.html
 
 [Oryginalny wpis na Facebooku](https://www.facebook.com/photo.php?fbid=10210249132563585&set=a.10208737101083743.1073741844.1198502305&type=3&theater)
