@@ -8,7 +8,7 @@
 # Site settings
 title: Rude Duchy
 author: Tomash
-author_link: https://twitter.com/_tomash
+author_link: /about
 author_description: Losowy nerd z internetu
 email: tomekrs@o2.pl
 description: > # this means to ignore newlines until "baseurl:"
