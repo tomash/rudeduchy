@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Aultmore 12 years old"
+date:   2017-02-04
+categories: 
+location: 
+tags: malt singlemalt scotch aultmore dewars
+image: /assets/posts/aultmore-12yo.jpg
+---
+
+Im bardziej poznaję historię firmy John Dewar & Sons, tym bardziej zaskakuje mnie pech jakiego miała pomimo produkcji naprawdę świetnych whisky.
+
+W roku 1925 trzy wielkie firmy sprzedające whisky mieszaną -- John Walker & Sons, James Buchanan & Company oraz John Dewar & Sons właśnie -- zostały częścią koncernu DCL (Distillers Company Limited) który do lat sześćdziesiątych dwudziestego wieku kontrolował około trzy czwarte brytyjskiego i podobny ułamek eksportowego rynku szkockiej whisky. Potem połączenie kiepskiego zarządzania i załamania rynku whisky spowodowały takie osłabienie DCL, że zostało przejęte w 1986 przez o wiele mniejszą spółkę, Guinessa. Przejęcie to było zresztą możliwe dzięki grubemu przekrętowi giełdowemu który zaowocował wyrokami więzienia dla czterech organizujących go biznesmenów [1]. Powstała w wyniku tych przejęć i połączeń spółka UDV w roku 1997 zmieniła nazwę na Diageo. Wszystkie marki tej firmy rozwinęły skrzydła, korzystając z gigantycznej sieci dystrybucji i marketingu, z wyjątkiem... John Dewar & Sons, którą w 1998 Diageo odsprzedało koncernowi Bacardi żeby uniknąć postępowania antymonopolowego.
+
+Bacardi dało JD&S swoją sieć dystrybucji i inwestowało w rozwój należących do firmy pięciu destylarni whisky słodowej, ale poza tym firma była prowadzona trochę bez pomysłu. Jeszcze do niedawna single malty z tych gorzelni miały bardzo mało oficjalnych butelkowań, a i te bywały po prostu niedostępne (jak Aberfeldy 25yo wydana z okazji otwarcia centrum dla zwiedzających w 2000 roku).
+
+W roku 2014, czyli około dekadę po rozpoczęciu aktualnego światowego boomu na whisky, John Dewar & Sons ogłosił wypuszczenie oficjalnych whisky jednosłodowych ze wszystkich swoich pięciu gorzelni, pod wspólną nazwą "The Last Great Malts". Nazwa jest dowcipna i autoironiczna, wiadomo że to nie są ostatnie malty w historii: "the last" należy tutaj rozumieć jako najbardziej spóźnione na trwającą (niektórzy uważają że mającą się ku końcowi) imprezę popularności szkockich single maltów.
+
+<div class="post-image">
+    <img src="{{ page.image }}" alt="Aultmore 12yo" />
+    <p class="post-image-caption">Zdjęcie zrobione kilka dni temu, przy ładniejszej pogodzie.</p>
+</div>
+
+Pogoda zrobiła się zimna, mglista i wilgotna, trzeba ją czymś rozjaśnić. Na stole ląduje single malt z destlarni Aultmore w podstawowej, dwunastoletniej wersji. Destylarnia Aultmore oprócz okolicy w której często była mgła i przemytnicy nie ma zbyt wiele historii do opowiedzenia. To, co ważne, skrywa prosta butelka z pozornie prostą etykietą, przypominającą stylem etykiety Balvenie. Whisky ma naturalny kolor (czyli bez dodatku karmelu), nie była filtrowana na zimno i została zabutelkowana z mocą 46% - te atrybuty budzą szacunek, bo rynek nas przyzwyczaił że podstawowy single malt jest filtrowany, kolorowany i ma minimalne dopuszczalne czterdzieści procent alkoholu.
+
+Pomimo takiej mocy, jest to jedna z najłagodniejszych w zapachu whisky z jakimi miałem styczność. W zapachu jest kremowa, waniliowa, z wyraźnym zapachem jabłek, mokrego ciasta, odrobiną kandyzowanej skórki cytrynowej. Od razu się kojarzy z szarlotką na ciepło z lodami waniliowymi. Potem pojawiają się zapachy traw, odrobina mięty, dąb. Po dodaniu wody jest jeszcze bardziej łagodna i owocowa.
+
+Dopiero na języku przypomina, że ma 46% alkoholu, ale nie jest to nieprzyjemne bimbrowe ukłucie. Aultmore pozostaje łagodka i słodka, z posmakiem kwaśnych jabłek i szarlotki. Finisz ma średni, słodkawy, lekko piekący.
+
+Podejrzewam że gdyby dwunastoletnia Aultmore single malt była na rynku nie od dwóch lat tylko od półtorej dekady, z odpowiednią promocją i dystrybucją, mogłaby deptać po piętach podstawowym, dwunastoletnim wersjom Glenfiddich i Glenlivet jako popularna, przystępna i przyjemna whisky o owocowym charakterze. Nareszcie jest szeroko dostępna (nawet w hipermarketach), dlatego bardzo polecam spróbować i ewentualnie zaopatrzyć się w butelki, zanim się wszyscy zorientują jak świetna jest to whisky w swojej kategorii wiekowej i cenowej.
+
+Oryginalny plan był taki, żeby po Carbonie opisać kolejne blendy Grant's. Jednak przyda nam się mały singlemaltowy przerywnik, czemu -- to będzie jasne później. To jeszcze nie koniec, w następnym odcinku kolejna whisky z serii The Last Great Malts, nietypowa pod bardzo wieloma względami Craigellachie.
+
+* [1] [Guiness Share Trading Fraud @ Wikipedia](https://en.wikipedia.org/wiki/Guinness_share-trading_fraud)
