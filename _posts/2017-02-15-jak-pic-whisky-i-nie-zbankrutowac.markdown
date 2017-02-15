@@ -18,6 +18,13 @@ Gdybyśmy chcieli kupić te dwieście whisky w standardowych butelkach pojemnoś
 
 Cały ten przydługi wstęp obliczeniowy służy zobrazowaniu tezy, że miłośnik whisky musi kombinować. Kupowanie i wypijanie całych butelek nie sprawdza się jako strategia poznawania kolejnych _uisce beatha_.
 
+
+<div class="post-image">
+  <img src="{{ page.image }}" alt="Diageo Special Releases 2016 ceny" />
+  <p class="post-image-caption">Diageo Special Releases 2016. Wydanie w ciemno tysięcy złotych na butelkę whisky do picia to kosztowny sport. Źródło: The Whisky Exchange.</p>
+</div>
+
+
 Zatem, co robić? Pozbierałem po znajomych, internetach i z doświadczeń własnych kilka sposobów na uprawianie tego hobby w sposób bardziej strawny dla budżetu, zdrowia i domu. Czyli jak wypijać i kupować mniej niż całe butelki?
 
 **Bary i restauracje**. Pozornie najprostsza organizacyjnie, choć najdroższa (w przeliczeniu na porcję) opcja. Tylko pozornie najprostsza organizacyjnie, bo żeby to miało sens, bar musi mieć niezły wybór whisky, nie może w nim śmierdzieć i powinien mieć odpowiednie szkło, czyli kieliszki tulipanowe lub glencairny. To w praktyce oznacza prawie wyłącznie knajpy specjalizowane w whisky (i innych drogich alkoholach), nie wszędzie w Polsce obecne. Ale jeśli już takowy jest -- zdecydowanie warto.
