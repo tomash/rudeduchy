@@ -8,10 +8,13 @@ tags: malt singlemalt scotch glenfiddich grants
 image: /assets/posts/glenfiddich-12yo.jpg
 ---
 
+* znana historia
+* najwięcej sprzedająca i produkująca destylarnia whisky słodowej
+* pierwszy single malt sprzedawany i reklamowany poza szkocją
 * jedyny single malt dostępny na tak wielu stacjach benzynowych
 * przystępna cena
 * jeden z moich pierwszych single maltów
-* spór z Trumpem?
+* spór z Trumpem!
 
 
 <div class="post-image">
