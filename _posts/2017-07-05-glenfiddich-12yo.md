@@ -31,13 +31,14 @@ Smak jest wpierw cierpki (dąb i przyprawy), jabłkowo-gruszkowy, po chwili robi
 
 Finisz lekko ściągający, drewniany, średnio długi.
 
-Jest to whisky całkiem ostra i kłująca jak na dwunastoletniego single malta "dla każdego". Nie wiem z czego to wynika (czy z szerokości "serca" destylacji, czy też z ogrzewania alembików ogniem) ale nie da się ukryć że można łatwo wskazać łagodniejsze, bardziej przyjazne dziesięcio- czy dwunastoletnie single malty. Nie zmienia to faktu że Glenfiddich w wersji dwunastoletniej to bardzo dobry pomysł na rozpoczęcie przygody ze szkocką whisky słodową, także ze względu na bardzo atrakcyjną (na tle konkurentów) cenę i niezrównaną dostępność.
+Jest to whisky całkiem ostra i kłująca jak na dwunastoletniego single malta "dla każdego". Nie wiem z czego to wynika (czy z szerokości "serca" destylatu, czy też z ogrzewania alembików ogniem) ale nie da się ukryć że można łatwo wskazać łagodniejsze, bardziej przyjazne dziesięcio- czy dwunastoletnie single malty. Nie zmienia to faktu że Glenfiddich w wersji dwunastoletniej to bardzo dobry pomysł na rozpoczęcie przygody ze szkocką whisky słodową, także ze względu na bardzo atrakcyjną (na tle konkurentów) cenę i niezrównaną dostępność.
+
+Zresztą nie tylko na rozpoczęcie. To dobry, bezpretensjonalny i pasujący do każdej sytuacji single malt.
 
 Mała butelka na zdjęciu ma pojemność 200ml i pochodzi z zestawu Glenfiddich Explorer Collection, składającego się z trzech takich butelek Glenfiddicha (12-, 15- i 18- letni) oraz kieliszka tulipanowego. Fajny zestaw nie tylko na prezent, szkoda że średnio dostępny w Polsce.
 
 Tym razem linki nie o samej whisky a o aferze wokół pola golfowego.
 
-* [1] https://www.theguardian.com/world/2010/may/27/donald-trump-david-puttnam
-* [2] https://www.theguardian.com/world/2012/dec/05/donald-trump-whisky-award
-* [3] http://www.vanityfair.com/hollywood/2017/02/donald-trump-scotland-sam-bee
-* [4] https://en.wikipedia.org/wiki/Michael_Forbes_(farmer)
+* [1] [Donald Trump's Scottish love affair on the rocks after whisky award slight](https://www.theguardian.com/world/2012/dec/05/donald-trump-whisky-award)
+* [2] [Meet the Defiant Scottish Farmer Who’s Been Feuding with Trump for a Decade](http://www.vanityfair.com/hollywood/2017/02/donald-trump-scotland-sam-bee)
+* [3] [Michael Forbes @ Wikipedia](https://en.wikipedia.org/wiki/Michael_Forbes_(farmer))
