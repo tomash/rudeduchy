@@ -32,7 +32,7 @@ $desktop-breakpoint: $layout-width / 0.9;
 $image-splitting-breakpoint: 510px;
 
 // Banner
-$banner-width: 600px;
+$banner-width: 1260px;
 $banner-height: 280px;
 $banner-margin: 50px;
 $banner-border-width: 0px;
@@ -41,7 +41,7 @@ $banner-border-offset: 2px;
 // Images
 // Note that extensions are omitted for use in retina-background-image mixin
 $img-separator: '{{ site.baseurl }}/img/separator';
-$img-banner: '{{ site.baseurl }}/img/shelf';
+$img-banner: '{{ site.baseurl }}/img/banner';
 $img-dude: '{{ site.baseurl }}/img/dude';
 $img-face: '{{ site.baseurl }}/img/self_with_owl';
 $img-location: '{{ site.baseurl }}/img/icon-location';
