@@ -1,12 +1,21 @@
 #banner {
-    @include retina-background-image($img-banner);
-    background-color: #8e8387;
+    // @include retina-background-image($img-banner);
+    // background-color: #8e8387;
     outline: none;
     display: block;
-    width: $banner-width;
-    height: $banner-height;
+    // width: $banner-width;
+    // height: $banner-height;
     margin: 0 auto 35px;
     position: relative; /* To ensure the bottom border is positioned correctly */
+
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 100%;
+        height: auto;
+        width: auto\9; /* ie8 */
+    }
 
     h1 {
         // Font is included from Google Fonts automatically unless a custom banner is used
