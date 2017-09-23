@@ -1,19 +1,5 @@
----
-layout: post
-title:  "Degustacja Chivas Regal"
-date:   2017-04-04
-categories: 
-location: 
-tags: 
-image: 
----
+BRUDNOPIS:
 
-3.06.2017, hotel Colibra
-
-<div class="post-image">
-    <img src="{{ page.image }}" alt="desc" />
-    <p class="post-image-caption">desc</p>
-</div>
 
 * independent bottlers, wiek najchętniej 18+, cask strength
 * wystawianie ocen w skali dziesięciopunktowej dla zabawy
@@ -144,11 +130,6 @@ f: średni
 
 nieźle, chciałbym spróbować po mniejszym przebiegu.
 4-4.5/10
-
-
-
-
-
 
 
 
