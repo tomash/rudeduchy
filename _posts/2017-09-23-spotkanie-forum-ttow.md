@@ -10,9 +10,9 @@ image: /assets/posts/spotkanie-forum-ttow-2017.jpg
 
 Na początku czerwca dołączyłem do spotkania degustacyjnego forum The Taste Of Whisky ([o którym już tu pisałem przy okazji wymieniania się próbkami whisky](/posts/2017-02-15-jak-pic-whisky-i-nie-zbankrutowac)). Zawsze miło poznać ludzi bardziej obytych w temacie, można się sporo nauczyć.
 
-Whisky do degustacji miały być z założenia szkockimi single maltami od niezależnych rozlewników, najlepiej pełnoletnimi i w mocy beczki. Ciekawy zestaw założeń który na starcie odrzuca najpopularniejsze whisky z oferty supermarketów i większości sklepów z alkoholami. Zakupy zostały dokonane przez organizatora, Rafała, w niemieckim [The Whisky Cask](http://thewhiskycask.de) gdzie można kupić objętość 200ml co gwarantowało rozlanie akurat na osiem osób po 25ml.
+Whisky do degustacji miały być z założenia szkockimi single maltami od niezależnych rozlewników, najlepiej pełnoletnimi i w mocy beczki. Ciekawy zestaw założeń który na starcie odrzuca najpopularniejsze whisky z oferty supermarketów i większości sklepów z alkoholami. Zakupy zostały dokonane przez organizatora, Rafała, w niemieckim [The Whisky Cask](http://thewhiskycask.de) oferującym rozlanie do mniejszych butelek, dzięki temu kupienie po 200ml każdej gwarantowało rozlanie akurat na osiem osób po 25ml bez żadnych pozostałości.
 
-Uprzedzałem że się mało znam i nie chcę wystawiać ocen, bo każda skala wydaje mi się ułomna: skala stupunktowa jest skompresowana u większości recenzentów w realny zakres 80-100 (gdzie poniżej 80 oznacza whisky kiepską), skala dziesięciopunktowa z kolei wydaje się oscylować wokół 3/10 (whisky pijalna). A przede wszystkim mam mało doświadczenia więc pewnie się zachwycę whisky przeciętną albo nie docenię wybitnej. Ale Rafał chciał pozbierać oceny w arkuszu w skali dziesięciopunktowej więc dołączyłem do zabawy.
+Uprzedziłem że się mało znam i nie chcę wystawiać ocen, bo każda skala wydaje mi się ułomna: skala stupunktowa jest skompresowana u większości recenzentów w realny zakres 80-100 (gdzie poniżej 80 oznacza whisky kiepską), skala dziesięciopunktowa z kolei wydaje się oscylować wokół 3/10 (whisky pijalna). A przede wszystkim mam mało doświadczenia więc pewnie się zachwycę whisky przeciętną albo nie docenię wybitnej. Ale Rafał chciał pozbierać oceny w arkuszu w skali dziesięciopunktowej więc dołączyłem do zabawy.
 
 
 <div class="post-image">
@@ -25,11 +25,11 @@ Uprzedzałem że się mało znam i nie chcę wystawiać ocen, bo każda skala wy
 
 (2) Pierwszy oficjalny kieliszek to **Glen Moray 18-letnia (wydestylowana w 1998, zabutelkowana przez The Whisky Cask)**. Beczka po bourbonie, moc nie-zapisałem.
 
-**W nosie** cytryna, trawy, wosk pszczeli i miód, trochę lakieru akrylowego. Oleista, bogata, ciężka, z olejkami wyczuwalnymi olejkami cytrusowymi. Po dodaniu wody ujawniły się zapachy jabłka, czerwonej porzeczki i siana.
+**W nosie** cytryna, trawy, wosk pszczeli i miód, trochę lakieru akrylowego. Oleista, bogata, ciężka, z wyczuwalnymi olejkami cytrusowymi. Po dodaniu wody ujawniły się zapachy jabłka, czerwonej porzeczki i siana.
 **Smak** ściągający, kwaskowaty, oleisty, skórzany, trochę brązowego cukru (demerara) i drewna.
 **Finisz** okazał się krótki i rozczarowujący.
 
-**Podsumowanie:** świetny i bogaty "arrival" z przodu ust, kiepski tył (właściwie nieobecna) i finisz. **Ocena** 5-6/10.
+**Podsumowanie:** świetne i bogate "wejście" z przodu ust, kiepski tył (właściwie nieobecna) i finisz. **Ocena** 5-6/10.
 
 (3) Drugi kieliszek to **Glentauchers 8-letnia (wydestylowana w 2008, zabutelkowana przez The Whisky Cask)**. Beczka po sherry oloroso pierwszego napełnienia, moc 58.4%. Będzie ciekawie, nie piłem jeszcze tak młodego single malta z beczki po sheery.
 
@@ -37,7 +37,7 @@ Uprzedzałem że się mało znam i nie chcę wystawiać ocen, bo każda skala wy
 **W smaku** ściągająca, słodko-kwaśna, pomarańcza i trochę czekolady.
 **Finisz** krótki, ostry i słodki.
 
-**Podsumowanie:** trochę jak Glenfarclas 10yo i Glendronach 12yo: fajne sherry odrobine złamane siarką. **Ocena** 3/10.
+**Podsumowanie:** trochę jak Glenfarclas 10yo i Glendronach 12yo: fajne sherry odrobinę zepsute siarką. **Ocena** 3/10.
 
 
 (4) Trzeci kieliszek to **Glenlossie 19-letnia (destylacja 1997, butelkowanie The Whisky Cask)**, beczka po bourbonie, moc 54.2%.
@@ -46,10 +46,10 @@ Uprzedzałem że się mało znam i nie chcę wystawiać ocen, bo każda skala wy
 **W smaku** herbaciana, słodkawa, chemiczna (farba? lakier?) i cierpka.
 **Finisz** szorstki, ściągający, średni.
 
-**Podsumowanie:** lakier z cukrem. Stało się tu coś złego, nie wiem co, pewnie kiepska beczka. Nie dopiłem. **Ocena 2/10.**
+**Podsumowanie:** lakier z cukrem. Stało się tu coś złego, nie wiem co, może kiepska beczka. Nie dopiłem. **Ocena 2/10.**
 
 
-(5) Czwarty kieliszek to **Auchroisk 7-letnia (destylacja 2010, The Whisky Cask)**. Beczka po porto pierwszego napełnienia, moc 52.5%.
+(5) Czwarty kieliszek to **Auchroisk 7-letnia (destylacja 2010, The Whisky Cask)**. Beczka po porto pierwszego napełnienia, moc 52.5%. To ta nietypowo różowa na zdjęciu.
 
 **Nos:** zasiarczona beczka, jabłko z siarką. Po ulotnieniu części siarki pojawiają się ledwo wyczuwalne zapachy wiśni, czerwonych jabłek, czerwonego wina.
 **W smaku** słodkie wiśnie, a poza tym ściągnięcie i ukłucie siarkowe, nieprzyjemna.
@@ -74,7 +74,7 @@ Uprzedzałem że się mało znam i nie chcę wystawiać ocen, bo każda skala wy
 **Smak** słodki, ziołowy, oleisty, gorzkawy, kwaśny, trochę jak syrop na kaszel (dobry syrop).
 **Finisz** długi, słodkawy, ziołowy i przyjemny.
 
-**Podsumowanie:** świetna! Idealny balans słodko-kwaśno-gorzki. Bogaty nos, bogate "wejście", bogaty z przodu i tyłu ust, fajny finisz. **Ocena** 8/10 i ochota na ponowne spróbowanie kiedy indziej.
+**Podsumowanie:** świetna! Idealny balans słodko-kwaśno-gorzki. Bogaty nos, bogate "wejście", dużo frajdy z przodu i tyłu buzi, fajny finisz. **Ocena** 8/10 i ochota na ponowne spróbowanie kiedy indziej.
 
 
 W tym miejscu, po siedmiu kieliszkach, doznałem już lekkiego stępienia zmysłów. Dlatego kolejne notki i oceny będą wyraźnie uboższe.
