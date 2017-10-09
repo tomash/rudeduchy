@@ -1,22 +1,26 @@
 ---
 layout: post
 title:  "Festiwal Whisky 2017"
-date:   2017-10-05
+date:   2017-10-09
 categories: 
 location: 
-tags: festiwal jastrzębiagóra domwhisky
-image: 
+tags: festiwal jastrzębiagóra domwhisky tasting
+image: /assets/posts/festiwal_whisky_2017/collage.jpg
 ---
+<!--
+/assets/posts/festiwal_whisky_2017/wolf-rye-jw-blue.jpg
+/assets/posts/festiwal_whisky_2017/langlander-kolekcja-grants.jpg
+/assets/posts/festiwal_whisky_2017/mateusz-zabiegaj-john-quinn.jpg
+-->
 
-
-<div class="post-image">
-    <img src="{{ page.image }}" alt="desc" />
-    <p class="post-image-caption">desc</p>
-</div>
-
-Byłem już na kilku imprezach organizowanych wokół whisky, po każdej z nich słyszałem od osób bardziej doświadczonych że Festiwal Whisky, organizowany przez Dom Whisky w Jastrzębiej Górze od czterech lat, pozostaje niedoścignionym wzorem whiskycentrycznej imprezy. W zeszłym roku nie udało mi się pojechać, w 2017 byłem zdecydowany żeby Jastrzębią Górę odwiedzić, mimo pewnego zmęczenia kurortami bałtyckimi w sezonie letnim.
+Byłem już na kilku imprezach organizowanych wokół whisky. Po każdej z nich słyszałem od osób bardziej doświadczonych że Festiwal Whisky, organizowany przez Dom Whisky w Jastrzębiej Górze od czterech lat, pozostaje niedoścignionym wzorem takiej imprezy. W zeszłym roku nie udało mi się pojechać, w 2017 byłem zdecydowany żeby Jastrzębią Górę odwiedzić, mimo niechęci do kurortów bałtyckich w sezonie letnim.
 
 W piątek 25. sierpnia wysiadłem z pociągu relacji Gdynia-Władsysławowo, podjechałem lokalnym autobusem do Jastrzębiej Góry i po zostawieniu bagażu w pensjonacie popędziłem na teren festiwalu. Było już po południu a liczba wystawców i atrakcji sugerowała że będę miał sporo do nadrobienia!
+
+<div class="post-image">
+  <img src="/assets/posts/festiwal_whisky_2017/wolf-rye-jw-blue.jpg" alt="kolaż" />
+  <p class="post-image-caption">Trafiły się zarówno whisky stare, o ugruntowanej pozycji, jak i tak młode że jeszcze nawet nie mają otwartej destylarni.</p>
+</div>
 
 Pierwsze co zrobiło na mnie wrażenie to lokalizacja, żadna zatłoczona sala w hotelu tylko mała "wioska" pod gołym niebem, pozwalająca korzystać z idealnej pogody (ciepło, sucho ale bez upału). Drugie wrażenie to przegląd festiwalowej książeczki: mnóstwo wystawców, właściwie wszyscy znaczący importerzy i osobiście brakowało mi tylko przedstawicielstwa Compass Box. Niestety mapka była mało czytelna.
 
@@ -28,11 +32,16 @@ Numerem jeden pierwszego dnia była dla mnie pozycja znana i lubiana, **dwunasto
 
 Potem poszedłem do dużego namiotu szukając stoiska Wolf Distillery, bardzo kibicuję temu projektowi i szanuję za nieustające eksperymenty, w tym destylowanie whisky nie tylko ze słodu jęczmiennego. Na początek spróbowałem **White Wolf** czyli niebeczkowanego destylatu żytniego. Zaskakująco łagodna jak na żytni alkohol, w zapachu sporo miękkich, kompotowych owoców. Kolejny kieliszek to **Rye Whiskey 3yo** czyli ten sam destylat po trzech latach w beczce. Znów zaskakująco łagodna, miękkie owoce, lekko kwiatowa (woda różana), odrobina drewna. Mam nadzieję że Michał ujawni publicznie jak uzyskał tak łagodny destylat ze słynącego generalnie z ostrości i przyprawowych akcentów żyta.
 
-Po powrocie na plac i odświeżeniu zorientowałem się że generalnie na festiwalu brakuje wody do picia między kolejnymi rundami whisky. W połączeniu z ciepłą, słoneczną pogodą zwiastowało to katastrofę. Na szczęście na stoisku Jack Daniel's wody butelkowanej nie brakowało, to mnie uratowało. Ogólny brak wody i konieczność korzystania z uprzejmości obsługi stoiska JD to jedyny poważny zarzut jaki mam pod adresem tegorocznego Festiwalu.
+Po powrocie na plac i odświeżeniu zorientowałem się że generalnie na festiwalu brakuje wody do picia między kolejnymi rundami whisky. W połączeniu z ciepłą, słoneczną pogodą zwiastowało to katastrofę. Na szczęście na stoisku Jack Daniel's wody butelkowanej nie brakowało, to mnie uratowało. Ogólny brak wody i konieczność korzystania z uprzejmości obsługi stoiska JD to jedyny poważny zarzut jaki mam pod adresem tegorocznego Festiwalu. Paradoksalnie nie brakowało wody do mycia kieliszków w samoobsługowych maszynach.
 
 Odwiedziłem stoisko Highland Park i Macallan. Niestety w Polsce wciąż oficjalnie nie powróciły Macallany z oznaczeniem wieku (zaczynają wracać na rynki zachodnie, na szczęście) więc moim czwartym kieliszkiem został **Highland Park 10yo**. Łagodny single malt, poprawny ale nic ciekawego. Szkoda bo marketing i design opakowań mają pierwsza klasa.
 
 Stoisko Grant's miało zapierającą dech wystawę kolekcji blendów Grant's, uciąłem z właścicielem tej kolekcji (niestety nie zapamiętałem imienia) krótką pogawędkę i w ramach rozmowy o zasiarczeniu **Grant's Family Reserve** spróbowaliśmy po kieliszku. Okazała się ostra i owocowa ale pozbawiona siarki, co pozwala mieć nadzieję że [moje złe doświadczenia z Grant's Family Reserve]({% post_url 2017-02-26-grants-family-reserve %}) były kwestią tymczasowego spadku formy i zabutelkowaniem nieudanych eksperymentów.
+
+<div class="post-image">
+  <img src="/assets/posts/festiwal_whisky_2017/kolekcja-grants.jpg" alt="kolekcja Grant's" />
+  <p class="post-image-caption">Imponująca kolekcja blendów Grant's ze wszystkich epok, pozbierana przez Polaka.</p>
+</div>
 
 Wróciłem potem pod namiot gdzie M&P miało między innymi niepróbowaną jeszcze przeze mnie japońską whisky **Nikka Blended**. Zanotowałem dojrzałe owoce, kwiaty (woda różana), płatki zbożowe (muesli), jak Nikka All Malt ale bez tego lekkiego dymu, za to z wyczuwalnym zbożem. Ogólnie bardzo fajna, kupiłem butelkę niedawno i zdecydowanie wolę Blended od All Malt.
 
@@ -68,31 +77,18 @@ Na szósty kieliszek, ostatni przed przerwą na obiad i drzemkę (kiepsko mi si�
 
 Po powrocie z przerwy zostało mi jakieś pięć-sześć kieliszków do końca imprezy. Numerem siedem została **Tamdhu single malt 10yo sherry cask**. Notatki: ostra, ciężka (szeroko cięta?), kompot (jabłka, porzeczki); w smaku mocna i pieprzna, ściągająca; finisz piekący, przyprawowy i korzenny. Nie przypadła mi do gustu, nie wiem czy ta ostrość to kwestia zbyt krótkiego czasu w beczce czy zbyt szerokiego środka destylacji,
 
-Ósmy
+Ósmym kieliszkiem postanowiłem uczcić już oficjalny powrót **Glenlivet 12 years old** na polski rynek. Znam i uwielbiam ten charakter: owoce, przyprawy, zioła i orzechy. To mój ulubiony dwunastoletni single malt i bardzo się cieszę z jego powrotu. Zwłaszcza że formalnie go zastępujący Glenlivet Founder's Reserve to whisky o zupełnie innym charakterze i po prostu o wiele mniej mi smakująca niż popularna dwunastka. Pogłoski o tym powrocie krążyły w środowisku entuzjastów ale patrząc na rozbudowę szkockich destylarni (o tym będzie dedykowany wpis) spodziewałem się że potrwa to jeszcze kilka lat.
 
+Potem trafiłem do namiotu z wykładem na temat historii irlandzkiej whisky i Tullamore DEW który prowadził John Quinn, przesympatyczny global brand ambassador tej marki. Tam nalano mi kieliszek numer dziewięć, popularnego **Tullamore DEW**, irlandzkiego blendu znanego z łagodności i miodowo-trawiastego charakteru. John na moje pytanie czy Tullamore zamierza wypuścić swoją whiskey single pot still, stylu unikalnego dla irlandzkich, odpowiedział twierdząco, ale zastrzegł że potrwa to jeszcze kilka lat bo na razie najstarsze beczki ich single pot still są zaledwie trzyletnie (destylarnię otwarto w 2014).
 
-7. Tamdhu 10yo sherry cask
-ostra, ciężka (wide cut?), kompot (jabłka, porzeczki). w smaku mocna i pieprzna (ściągająca). finisz piekący, przyprawowy i korzenny.
-w: przydałby się albo węższy środek albo jeszcze kilka lat w beczce.
+Dziesiąty tego dnia kieliszek to **Wemyss Lord Elcho blended whisky**, blend o którym wcześniej nie słyszałem. W notatkach zapisałem: zielone jabłka, gruszki, siano, masło, cytryna, słodka, owocowo kwaskowata, przyjemna, pieprz, orzechy, pełna i drapiąca w finiszu. Ogólnie całkiem fajna.
 
-8. Glenlivet 12yo
-owoce, przyprawy, zioła, orzechy.
-POWRÓT NA POLSKI RYNEK! <3 
+Na koniec z racji mojej słabości do bourbonów trafiłem na jedno z największych na festiwalu stoisko Jim Beam. Wszystkie eksponowane tam butelki znałem z wyjątkiem jednej nowej: **Jim Beam Extra Aged**, nowa wersja czarnej etykiety, zastępująca zarówno europejską "triple aged 6 years old" jak i amerykańską "double aged 8 years old", tym razem bez podania wieku. Notatki: wanilia i miód, owoce leśne i czerwone (jak w JB Double Oak), orzechy, chleb żytni, smak i finisz chropowaty, drewniany, średnio długi. Ogólnie fajny wypust, niestety zgodnie z oczekiwaniami bliższy wersji sześcioletniej niż ośmioletniej, z odrobiną akcentów znanych z Double Oak.
 
-9. Tullamore DEW (original)
-słodka (miód), trawiasta-zielona (single pot still), igły, jabłka
+Świetnie się bawiłem i każdemu polecam ten Festiwal. Było mnóstwo wystawców, morze dobrej whisky (i trochę kiepskiej), fajnie rozplanowany teren festiwalu gdzie było i gdzie usiąść, i gdzie zjeść, a jeśli komuś brakowało miejsca lub jedzenia to można było zawsze teren festiwalu na chwilę opuścić. Było kilka zgrzytów jak wspomniany brak numeracji stoisk połączony z książeczką kuponów, brak wody butelkowanej czy cygara (zwłaszcza kiedy palacze cygar pojawiali się w głównym namiocie) ale pomimo tego był to najlepiej zorganizowany festiwal whisky w jakim miałem okazję uczestniczyć. Mam zamiar go odwiedzić w przyszłym roku!
 
-10. Wemyss Lord Elcho (blended)
-jabłko zielone, gruszka, siano, masło, cytryna. słodka, owocowo kwaskowata, przyjemna, (szeroko cięta?), orzechy. pełna, drapiąca w finiszu.
-
-11. Jim Beam Extra Aged (nowy JB Black)
-wanilia i miód, owoce leśne i czerwone (jak w double oak), orzechy, chleb żytni. smak i finisz chropowaty, drewniany, średnio długi.
-w: fajna, dojrzałość około 6yo (niestety nie 8yo) plus trochę akcentów jak w Double Oak
-
-
-
-
-  ale   W dniach 26-27 sierpnia 
-
-
+<div class="post-image">
+  <img src="/assets/posts/festiwal_whisky_2017/mateusz-zabiegaj-john-quinn.jpg" alt="kolaż" />
+  <p class="post-image-caption">Poznawanie ludzi to kolejna zaleta festiwalu. Po lewej Mateusz Zabiegaj, polski brand ambassador Grant's zaraz po degustacji "dekompozycja blendu", po prawej John Quinn zaraz po swoim wykładzie o Tullamore DEW. Obaj panowie są zatrudniani przez tę samą firmę, William Grant And Sons.</p>
+</div>
 
