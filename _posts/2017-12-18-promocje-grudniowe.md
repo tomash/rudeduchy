@@ -10,6 +10,8 @@ image: /assets/posts/whisky-christmas.jpg
 
 W tym roku niestety nie jesteśmy tak rozpieszczeni promocjami na whisky w hipermarketach jak w zeszłym roku rozpieszczał nas Carrefour czy Tesco. Możecie nawet nie szukać alkoholi w gazetkach promocyjnych -- pojawi się co najwyżej trochę piw. Chociaż widziałem donosy o bardzo fajnych cenach na niektóre whisky w Carrefourach, sprawdzę to w poniedziałek wieczorem i uzupełnię wpis.
 
+**EDIT:** zgodnie z obietnicą o promocji w Carrefourze na dole wpisu!
+
 Warto natomiast rozejrzeć się po innych sklepach bo pojawiło się kilka ciekawostek. I to w sklepach które raczej nie słyną z alkoholi premium.
 
 <div class="post-image">
@@ -39,3 +41,18 @@ Po pierwsze w najbliższym lidlu trafiłem dziś na pierwszą butelkę lidlowej 
 Po drugie  [Winnica Lidla](https://winnicalidla.pl/) poszerzyła swoją ofertę o whisky w całkiem konkurencyjnych cenach które robią się rewelacyjne w połączeniu z trwającą do końca grudnia promocją "rabat 50zł przy zakupie whisky za co najmniej 300zł". Jest w tej ofercie sporo klasyki, od mojej ulubionej dwunastki (Glenlivet) przez blended malta JW Green Label po nagradzane Ballantine's 17yo (jest też 21yo) czy Glen Grant 10yo. Miłośnikom bourbonów zwracam uwagę na obecnego na naszym rynku od niedawna dziesięcioletniego Bulleita, dobra rzecz.
 
 No to Wesołych!
+
+**EDIT:** Rzeczywiście, Carrefour ma całą gazetkę z promocją whisky od 15.11 do 31.12, po prostu jest ona niedostępna w internecie oraz ma na dole adnotację o dystrybucji gazetki wyłącznie na stoisku alkoholowym. Musiało się coś zmienić w interpretacji przepisów, poprzednie gazetki dało się spokojnie znaleźć w internecie. Oto więc krótki przegląd owej gazetki:
+
+* Trójca Ardbeg: 10yo za 169zł, Corryvreckan za 279zł, Uigeadail za 229zł. Ardbeg to whisky wyłącznie dla miłośników mocno dymnych i medycznych szkockich, pewnie z tego powodu rzadko bywa przeceniany w hipermarketach. Tym bardziej jest to promocja warta uwagi, ceny są mocno okazyjne względem sklepów internetowych i jeśli ktoś lubi Ardbega będzie wniebowzięty, cała ta trójka to klasyka gatunku. Uprzedzam że kupowanie jej na prezent bez rozeznania jest ryzykowne.
+* Benriach 10yo za 139zł i Glendronach 12yo za 159zł czyli bardzo sympatyczne (można kupować na prezent w ciemno) podstawowe wersje single maltów dwóch znanych, szanowanych destylarni, należących do tej samej spółki (od zeszłego roku do Brown-Foreman, właściciela Jack Daniel's).
+* Highland Park 12yo za 159zł to whisky do której jakoś nie mam przekonania w cenie zaledwie zbliżonej do internetowych.
+* Glenlivet 12yo za 129zł to moja ulubiona szkocka dwunastka, nie dość że w tym roku powróciła na polski rynek to jeszcze tutaj w świetnej cenie. Brałbym z półki wszystkie butelki.
+* Glen Scotia Harbour za 139zł, Glenfiddich 21yo Reserva Rum Cask Finish 599zł, Mortlach Rare Old za 239zł (ale tylko 0.5L) to butelki których zwyczajnie nie znam więc mogę tylko powiedzieć że mają ceny niższe niż w sklepach internetowych.
+* Balvenie 14yo Caribbean Cask za 249zł to bardzo atrakcyjna cena za bardzo dobrą whisky chociaż uważam że Balvenie odlatuje z cenami. Wciąż, lepiej kupić za dwie i pół stówy niż za trzy. Jak to zwykle u Balvenie przepiękna etykieta.
+* Bulleit 10yo za 139zł czyli trzecia już propozycja marki Bulleit, trzyma wysoki poziom do jakieg przyzwyczaiła nas ta marka (nie destylarnia, to jest destylowane przez Four Roses) i jest bardzo dobrym wstępem do bourbonów w słusznym wieku, właściwie jednym z lepszych, zwłaszcza od kiedy Knob Creek i Elijah Craig straciły oznaczenie wieku.
+* Blanton's Special Reserve za 139zł to jest dla mnie, obok Glenliveta, przebój tej promocji, podstawowa wersja (istnieje teoria że różnią się wyłącznie rozcieńczeniem) słynnego bourbona którym zachwycają się także fani szkockiej.
+* Nikka Super Rare Old za 189zł -- każdy fan whisky powinien się choć trochę zapoznać z japońską, ta Nikka to jedna z bardziej przystępnych i smacznych propozycji.
+* Teeling Small Batch za 109zł to jedyna irlandzka w całym tym zestawieniu i moim zdaniem warta tej ceny.
+
+Dodatkowo w Carrefourze w którym akurat byłem jest jeszcze kilka innych przecen, między innymi Bulleit Bourbon w woreczku za 89zł. Świetna cena. Woreczek oprócz funkcji ozdobnej służy do pokruszenia lodu do typowo letnich koktajli jak Mint Julep (który sam z siebie ma fascynującą historię -- ale tą zajmiemy się latem).
