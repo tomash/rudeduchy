@@ -7,11 +7,11 @@
 
 // base-font-family: "adobe-caslon-pro", "Adobe Caslon Pro", serif;
 // caption-font-family: "ltc-bodoni-175", "Libre Baskerville", serif;
-$base-font-family: "Times New Roman", serif;
-$caption-font-family: "Times New Roman", serif;
+$base-font-family: Georgia,Cambria,"Times New Roman",Times,serif;
+$caption-font-family: Georgia,Cambria,"Times New Roman",Times,serif;
 $banner-font-family: "Sanchez", serif;
 $title-font-family: "Libre Baskerville", serif;
-$base-font-size:   18px;
+$base-font-size:   20px;
 $base-font-weight: 400;
 $base-line-height: 1;
 
@@ -54,3 +54,44 @@ $img-location: '{{ site.baseurl }}/img/icon-location';
         "layout",
         "modules"
 ;
+
+.post-date {
+  font-variant: all-petite-caps;
+  border-top: none;
+  border-bottom: none;
+}
+
+.wf-inactive .post-date, .wf-loading .post-date {
+  padding-top: 11px;
+}
+
+.post-body {
+  letter-spacing: 0.01em;
+
+
+  p {
+    line-height: 1.7;
+  }
+
+  ol, ul {
+    li {
+      line-height: 1.3;
+      margin-bottom: 0.5em;
+    }
+  }
+
+  blockquote {
+    line-height: 1.3;
+  }
+
+}
+
+.post-image-caption {
+  &::after {
+      display: block;
+      content: "";
+      width: 185px;
+      margin: 23px auto 30px;
+      border-bottom: 5px solid $border-color;
+  }
+}
