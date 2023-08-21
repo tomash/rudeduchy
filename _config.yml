@@ -29,6 +29,8 @@ typekit_kit_id:
 gems:
   - jekyll-paginate
   - jekyll-sitemap
+plugins:
+  - jekyll-paginate
 markdown: kramdown
 permalink: pretty
 
