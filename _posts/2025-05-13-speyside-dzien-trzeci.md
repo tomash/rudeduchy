@@ -10,7 +10,7 @@ image: ""
 
 Trzeci dzień wyjazdu był nietypowy bo opuściliśmy Speyside.
 
-Najpierw obejrzeliśmy kurhany i inne stosy kamieni, datowane na 4000 lat, zwane Clava Cairns. Potem spędziliśmy dłuższą chwilę na polu Bitwy pod Culloden gdzie w 1746 gdzie szkoccy powstańcy zostali zmasakrowani przez wojska królewskie. Oprócz rozbudowanego visitors centre i umieszczonych na polu flag i tablic opisujących co się w danym fragmencie pola wydarzyło, wrażenie robi chodnik z płytami honorującymi sponsorów i klany których członkowie brali udział w bitwie. Większością sponsorów są zresztą fundacje poszczególnych klanów. Jedna płyta zrobiła na mnie najgłębsze wrażenie, "For Carnegies of both sides", co przypomina o podwójnie ponurej rzeczywistości wojen domowych czy powstańczych.
+Najpierw obejrzeliśmy kurhany i inne stosy kamieni, datowane na 4000 lat, zwane Clava Cairns. Potem spędziliśmy dłuższą chwilę na polu Bitwy pod Culloden gdzie w 1746 roku szkoccy powstańcy zostali zmasakrowani przez wojska królewskie. Oprócz rozbudowanego visitors centre i umieszczonych na polu flag i tablic opisujących co się w danym fragmencie pola wydarzyło, wrażenie robi chodnik z płytami honorującymi sponsorów i klany których członkowie brali udział w bitwie. Większością sponsorów są zresztą rodzinne fundacje poszczególnych klanów. Jedna płyta zrobiła na mnie najgłębsze wrażenie, "For Carnegies of both sides", co przypomina o podwójnie ponurej rzeczywistości wojen domowych czy powstańczych.
 
 (zdjęcie culloden battlefield)
 
