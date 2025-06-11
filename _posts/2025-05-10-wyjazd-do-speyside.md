@@ -14,4 +14,5 @@ Kolejne kilka notek, zalinkowanych dla łatwości poniżej, to osobista relacja 
 2. [Dzień drugi]({% post_url 2025-05-12-speyside-dzien-drugi %})
 3. [Dzień trzeci]({% post_url 2025-05-13-speyside-dzien-trzeci %})
 4. [Dzień czwarty]({% post_url 2025-05-14-speyside-dzien-czwarty %})
+5. [Dzień piąty]({% post_url 2025-05-15-speyside-dzien-piaty %})
 
